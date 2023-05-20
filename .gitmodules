@@ -1,7 +1,0 @@
-[submodule "Phase-2-React/2023-05-20-Product-Search"]
-	path = Phase-2-React/2023-05-20-Product-Search
-	url = https://github.com/dbagley1/SCF-2023-05-20-product-search.git
-[submodule "Phase-2-React/SCF-2023-05-20-Product-Search"]
-	path = Phase-2-React/SCF-2023-05-20-Product-Search
-	url = https://github.com/dbagley1/SCF-2023-05-20-product-search.git
-	branch = main
