@@ -9,3 +9,6 @@
 [submodule "SCF-2023-06-03-Reducer-Context-Todo-List-App"]
 	path = SCF-2023-06-03-Reducer-Context-Todo-List-App
 	url = https://github.com/dbagley1/use-reducer-example.git
+[submodule "SCF-2023-06-03-Pokemon-Search-Use-Effect"]
+	path = SCF-2023-06-03-Pokemon-Search-Use-Effect
+	url = https://github.com/dbagley1/use-effect-pokeapi.git
