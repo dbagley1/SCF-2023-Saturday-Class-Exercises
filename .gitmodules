@@ -6,3 +6,6 @@
 	path = SCF-2023-05-13-State-Intro
 	url = https://github.com/dbagley1/SCF-2023-05-13-State-Intro.git
 	branch = main
+[submodule "SCF-2023-06-03-Reducer-Context-Todo-List-App"]
+	path = SCF-2023-06-03-Reducer-Context-Todo-List-App
+	url = https://github.com/dbagley1/use-reducer-example.git
