@@ -12,3 +12,6 @@
 [submodule "SCF-2023-06-03-Pokemon-Search-Use-Effect"]
 	path = SCF-2023-06-03-Pokemon-Search-Use-Effect
 	url = https://github.com/dbagley1/use-effect-pokeapi.git
+[submodule "SCF-2023-06-10-React-Local-Storage"]
+	path = SCF-2023-06-10-React-Local-Storage
+	url = https://github.com/dbagley1/react-local-storage-example.git
